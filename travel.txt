@@ -1,3 +1,8 @@
 packing list
 ------------
 shoes
+coat
+
+picnic
+-----------
+water
